@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(179, 24, 132);
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4vh;
+    height: 100vh;
+  }
+
+.item a{
+  color: #fff;
+  text-decoration: none;
+}

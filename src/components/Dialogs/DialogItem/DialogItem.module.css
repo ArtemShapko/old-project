@@ -1,0 +1,14 @@
+.dialogs {
+    display: grid;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+}
+
+.item img {
+    height: 30px;
+    margin: 0px 20px 0 0;
+    border-radius: 100%;
+  }
+.text {
+    margin: 0 0px 0 0px;
+}
